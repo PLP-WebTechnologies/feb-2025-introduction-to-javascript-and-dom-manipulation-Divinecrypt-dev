@@ -13,6 +13,6 @@ else:
     print('Second number cannot be zero or lesser')
 print(f"Results of your two numbers:")
 print(f"Sum: {sum_result}")  # ➕
-print(f"Difference: {difference_result}")  # ➖
-print(f"Product: {product_result}")  # ✖️
-print(f"Quotient: {quotient_result}")  # ➗
+print(f"Difference: {difference_result}")  
+print(f"Product: {product_result}")  
+print(f"Quotient: {quotient_result}") 
